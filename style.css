@@ -13,7 +13,7 @@ body{
 }
 :root{
      --font-color:white;
-     --hover-color:crimson;
+     --hover-color:red;
      --box-shadow-color:rgb(53, 52, 52);
      --bg-color:aliceblue;
 }
